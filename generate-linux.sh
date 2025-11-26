@@ -1,0 +1,1 @@
+cmake -B build/linux -DCMAKE_TOOLCHAIN_FILE=./TC-linux.cmake
