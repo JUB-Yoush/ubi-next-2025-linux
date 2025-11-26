@@ -1,4 +1,24 @@
-#Ubi Contest API for Mac & Windows
+# Ubi Contest API for Linux (Unofficial)
+
+Only tested on Pop!os 22.04 LTS x84_64
+
+Quite hacky and untested, pretty sure you aren't allowed to modify any of the API code anyway, it'd be great if they released an official linux build.
+
+## Requirements
+* CMake (4.0)
+* [freeglut](https://github.com/freeglut/freeglut)
+* [SDL3](https://wiki.libsdl.org/SDL3/FrontPage)
+* a C++ build environment
+
+## To build
+* Run ``bash generate-linux.sh``
+* It should generate a ``build/linux`` folder
+* run ``cd build/linux`` then ``make run``
+* if you run into ``/usr/bin/ld: cannot find -lGLUT: No such file or directory``, modify the ``build/linux/CMakeFiles/Game.dir/link.txt`` file to remove the ``-lGLUT`` part (I don't know why this works...)
+* You should be able to load into the test game from there. 
+
+# Original README
+# Ubi Contest API for Mac & Windows
 
 ## Dependencies
 
