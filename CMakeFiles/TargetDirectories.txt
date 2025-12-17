@@ -1,0 +1,5 @@
+/home/j/projects/ubi-2025/engine/CMakeFiles/ContestAPI.dir
+/home/j/projects/ubi-2025/engine/CMakeFiles/Game.dir
+/home/j/projects/ubi-2025/engine/CMakeFiles/run.dir
+/home/j/projects/ubi-2025/engine/CMakeFiles/edit_cache.dir
+/home/j/projects/ubi-2025/engine/CMakeFiles/rebuild_cache.dir

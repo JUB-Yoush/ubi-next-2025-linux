@@ -1,0 +1,2 @@
+/usr/bin/ar qc libContestAPI.a CMakeFiles/ContestAPI.dir/src/ContestAPI/SimpleController.cpp.o CMakeFiles/ContestAPI.dir/src/ContestAPI/SimpleSound.cpp.o CMakeFiles/ContestAPI.dir/src/ContestAPI/SimpleSprite.cpp.o CMakeFiles/ContestAPI.dir/src/ContestAPI/app.cpp.o CMakeFiles/ContestAPI.dir/src/ContestAPI/main.cpp.o CMakeFiles/ContestAPI.dir/src/ContestAPI/vendor/miniaudio/miniaudio.cpp.o CMakeFiles/ContestAPI.dir/src/ContestAPI/vendor/stb_image/stb_image.cpp.o
+/usr/bin/ranlib libContestAPI.a

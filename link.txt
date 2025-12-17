@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Game.dir/src/Game/GameTest.cpp.o -o Game   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib libContestAPI.a /usr/lib/x86_64-linux-gnu/libGLU.so /usr/lib/x86_64-linux-gnu/libGL.so /usr/local/lib/libglut.so /usr/lib/x86_64-linux-gnu/libXi.so -lSDL3 -lGL -lGLU

@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/j/projects/ubi-2025/engine/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
