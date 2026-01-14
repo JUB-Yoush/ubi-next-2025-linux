@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/home/j/projects/ubi-2025/engine",
+  "command": "/usr/bin/c++ -DBUILD_PLATFORM_APPLE=0 -DBUILD_PLATFORM_LINUX=1 -DBUILD_PLATFORM_WINDOWS=0 -DGL_SILENCE_DEPRECATION -I/home/j/projects/ubi-2025/engine/src/ContestAPI -I/home/j/projects/ubi-2025/engine -I/home/j/projects/ubi-2025/engine/src/ContestAPI/vendor/miniaudio -I/home/j/projects/ubi-2025/engine/src/ContestAPI/vendor/stb_image -std=gnu++17 -o CMakeFiles/ContestAPI.dir/src/ContestAPI/SimpleController.cpp.o -c /home/j/projects/ubi-2025/engine/src/ContestAPI/SimpleController.cpp",
+  "file": "/home/j/projects/ubi-2025/engine/src/ContestAPI/SimpleController.cpp",
+  "output": "CMakeFiles/ContestAPI.dir/src/ContestAPI/SimpleController.cpp.o"
+},
+{
+  "directory": "/home/j/projects/ubi-2025/engine",
+  "command": "/usr/bin/c++ -DBUILD_PLATFORM_APPLE=0 -DBUILD_PLATFORM_LINUX=1 -DBUILD_PLATFORM_WINDOWS=0 -DGL_SILENCE_DEPRECATION -I/home/j/projects/ubi-2025/engine/src/ContestAPI -I/home/j/projects/ubi-2025/engine -I/home/j/projects/ubi-2025/engine/src/ContestAPI/vendor/miniaudio -I/home/j/projects/ubi-2025/engine/src/ContestAPI/vendor/stb_image -std=gnu++17 -o CMakeFiles/ContestAPI.dir/src/ContestAPI/SimpleSound.cpp.o -c /home/j/projects/ubi-2025/engine/src/ContestAPI/SimpleSound.cpp",
+  "file": "/home/j/projects/ubi-2025/engine/src/ContestAPI/SimpleSound.cpp",
+  "output": "CMakeFiles/ContestAPI.dir/src/ContestAPI/SimpleSound.cpp.o"
+},
+{
+  "directory": "/home/j/projects/ubi-2025/engine",
+  "command": "/usr/bin/c++ -DBUILD_PLATFORM_APPLE=0 -DBUILD_PLATFORM_LINUX=1 -DBUILD_PLATFORM_WINDOWS=0 -DGL_SILENCE_DEPRECATION -I/home/j/projects/ubi-2025/engine/src/ContestAPI -I/home/j/projects/ubi-2025/engine -I/home/j/projects/ubi-2025/engine/src/ContestAPI/vendor/miniaudio -I/home/j/projects/ubi-2025/engine/src/ContestAPI/vendor/stb_image -std=gnu++17 -o CMakeFiles/ContestAPI.dir/src/ContestAPI/SimpleSprite.cpp.o -c /home/j/projects/ubi-2025/engine/src/ContestAPI/SimpleSprite.cpp",
+  "file": "/home/j/projects/ubi-2025/engine/src/ContestAPI/SimpleSprite.cpp",
+  "output": "CMakeFiles/ContestAPI.dir/src/ContestAPI/SimpleSprite.cpp.o"
+},
+{
+  "directory": "/home/j/projects/ubi-2025/engine",
+  "command": "/usr/bin/c++ -DBUILD_PLATFORM_APPLE=0 -DBUILD_PLATFORM_LINUX=1 -DBUILD_PLATFORM_WINDOWS=0 -DGL_SILENCE_DEPRECATION -I/home/j/projects/ubi-2025/engine/src/ContestAPI -I/home/j/projects/ubi-2025/engine -I/home/j/projects/ubi-2025/engine/src/ContestAPI/vendor/miniaudio -I/home/j/projects/ubi-2025/engine/src/ContestAPI/vendor/stb_image -std=gnu++17 -o CMakeFiles/ContestAPI.dir/src/ContestAPI/app.cpp.o -c /home/j/projects/ubi-2025/engine/src/ContestAPI/app.cpp",
+  "file": "/home/j/projects/ubi-2025/engine/src/ContestAPI/app.cpp",
+  "output": "CMakeFiles/ContestAPI.dir/src/ContestAPI/app.cpp.o"
+},
+{
+  "directory": "/home/j/projects/ubi-2025/engine",
+  "command": "/usr/bin/c++ -DBUILD_PLATFORM_APPLE=0 -DBUILD_PLATFORM_LINUX=1 -DBUILD_PLATFORM_WINDOWS=0 -DGL_SILENCE_DEPRECATION -I/home/j/projects/ubi-2025/engine/src/ContestAPI -I/home/j/projects/ubi-2025/engine -I/home/j/projects/ubi-2025/engine/src/ContestAPI/vendor/miniaudio -I/home/j/projects/ubi-2025/engine/src/ContestAPI/vendor/stb_image -std=gnu++17 -o CMakeFiles/ContestAPI.dir/src/ContestAPI/main.cpp.o -c /home/j/projects/ubi-2025/engine/src/ContestAPI/main.cpp",
+  "file": "/home/j/projects/ubi-2025/engine/src/ContestAPI/main.cpp",
+  "output": "CMakeFiles/ContestAPI.dir/src/ContestAPI/main.cpp.o"
+},
+{
+  "directory": "/home/j/projects/ubi-2025/engine",
+  "command": "/usr/bin/c++ -DBUILD_PLATFORM_APPLE=0 -DBUILD_PLATFORM_LINUX=1 -DBUILD_PLATFORM_WINDOWS=0 -DGL_SILENCE_DEPRECATION -I/home/j/projects/ubi-2025/engine/src/ContestAPI -I/home/j/projects/ubi-2025/engine -I/home/j/projects/ubi-2025/engine/src/ContestAPI/vendor/miniaudio -I/home/j/projects/ubi-2025/engine/src/ContestAPI/vendor/stb_image -std=gnu++17 -o CMakeFiles/ContestAPI.dir/src/ContestAPI/vendor/miniaudio/miniaudio.cpp.o -c /home/j/projects/ubi-2025/engine/src/ContestAPI/vendor/miniaudio/miniaudio.cpp",
+  "file": "/home/j/projects/ubi-2025/engine/src/ContestAPI/vendor/miniaudio/miniaudio.cpp",
+  "output": "CMakeFiles/ContestAPI.dir/src/ContestAPI/vendor/miniaudio/miniaudio.cpp.o"
+},
+{
+  "directory": "/home/j/projects/ubi-2025/engine",
+  "command": "/usr/bin/c++ -DBUILD_PLATFORM_APPLE=0 -DBUILD_PLATFORM_LINUX=1 -DBUILD_PLATFORM_WINDOWS=0 -DGL_SILENCE_DEPRECATION -I/home/j/projects/ubi-2025/engine/src/ContestAPI -I/home/j/projects/ubi-2025/engine -I/home/j/projects/ubi-2025/engine/src/ContestAPI/vendor/miniaudio -I/home/j/projects/ubi-2025/engine/src/ContestAPI/vendor/stb_image -std=gnu++17 -o CMakeFiles/ContestAPI.dir/src/ContestAPI/vendor/stb_image/stb_image.cpp.o -c /home/j/projects/ubi-2025/engine/src/ContestAPI/vendor/stb_image/stb_image.cpp",
+  "file": "/home/j/projects/ubi-2025/engine/src/ContestAPI/vendor/stb_image/stb_image.cpp",
+  "output": "CMakeFiles/ContestAPI.dir/src/ContestAPI/vendor/stb_image/stb_image.cpp.o"
+},
+{
+  "directory": "/home/j/projects/ubi-2025/engine",
+  "command": "/usr/bin/c++ -DBUILD_PLATFORM_APPLE=0 -DBUILD_PLATFORM_LINUX=1 -DBUILD_PLATFORM_WINDOWS=0 -DGL_SILENCE_DEPRECATION -I/home/j/projects/ubi-2025/engine/src/Game -I/home/j/projects/ubi-2025/engine -I/home/j/projects/ubi-2025/engine/src/ContestAPI -std=gnu++17 -o CMakeFiles/Game.dir/src/Game/GameTest.cpp.o -c /home/j/projects/ubi-2025/engine/src/Game/GameTest.cpp",
+  "file": "/home/j/projects/ubi-2025/engine/src/Game/GameTest.cpp",
+  "output": "CMakeFiles/Game.dir/src/Game/GameTest.cpp.o"
+}
+]
