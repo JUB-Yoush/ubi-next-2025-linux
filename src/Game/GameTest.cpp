@@ -19,6 +19,7 @@
 #include "ecs/world.h"
 #include "helper/jinput.h"
 #include "math/calc.h"
+#include "math/matrix.h"
 #include "renderer/camera.h"
 #include "renderer/mesh.h"
 #include "renderer/renderer.h"
